@@ -1,0 +1,9 @@
+## Setup
+
+```
+npm install
+```
+
+```
+grunt
+```
